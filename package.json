@@ -14,7 +14,7 @@
     "@mdx-js/mdx": "^1.6.5",
     "@mdx-js/react": "^1.6.5",
     "algoliasearch": "^4.3.0",
-    "axios": "^0.21.2",
+    "axios": "^1.6.3",
     "babel-plugin-styled-components": "^1.10.7",
     "browser-lang": "^0.1.0",
     "browserslist": "^4.21.0",
